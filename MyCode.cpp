@@ -1,7 +1,7 @@
 
 void DoSomethingReallyExciting()
 {
-	fart();
+	BreakWind();
 }
 
 void main()
