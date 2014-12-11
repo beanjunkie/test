@@ -1,5 +1,3 @@
-test
-====
 #define MY_VERSION 9
 
 Test repo
