@@ -1,6 +1,7 @@
 
 void DoSomethingReallyExciting()
 {
+	QuickFeature10Fix();
 	BreakWind();
 }
 
