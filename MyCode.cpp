@@ -7,5 +7,6 @@ void DoSomethingReallyExciting()
 void main()
 {
 	// This is a.cpp file
-	DoSomethingReallyExiciting();
+	DoSomethingReallyExciting();	// typo fixed
+	EekGonnaBlow();
 }
