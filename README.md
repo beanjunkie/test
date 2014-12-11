@@ -1,6 +1,6 @@
 test
 ====
-#define MY_VERSION 7
+#define MY_VERSION 6
 
 Test repo
 Updated by feature 2
