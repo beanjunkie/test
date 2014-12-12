@@ -15,5 +15,8 @@ void main()
 
 void TheWayToAmarillo()
 {
-	ShowMe();
+	if( ShowMe() )
+	{
+		GoThere();
+	}
 }
