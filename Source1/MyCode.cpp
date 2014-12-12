@@ -19,4 +19,5 @@ void TheWayToAmarillo()
 	{
 		GoThere();
 	}
+	Feature25();
 }
