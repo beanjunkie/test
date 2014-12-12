@@ -18,4 +18,6 @@ void main()
 void Progression()
 {
 	// KeepMoving on forward
+	// Forgot to add the code
+	DoThis();
 }
