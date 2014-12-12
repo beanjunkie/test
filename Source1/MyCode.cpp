@@ -16,4 +16,5 @@ void main()
 void TheWayToAmarillo()
 {
 	ShowMe();
+	Feature25();
 }
