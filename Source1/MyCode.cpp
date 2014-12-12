@@ -12,3 +12,8 @@ void main()
 	EekGonnaBlow();
 	Feature11PostMove();
 }
+
+void TheWayToAmarillo()
+{
+	ShowMe();
+}
