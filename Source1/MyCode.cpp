@@ -2,7 +2,7 @@
 void DoSomethingReallyExciting()
 {
 	BreakWind();
-	NewCode();
+	NewCode2();
 }
 
 void main()
