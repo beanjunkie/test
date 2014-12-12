@@ -3,7 +3,6 @@ void DoSomethingReallyExciting()
 {
 	FlowYourBoat();
 	BreakWind();
-	NewCode();
 }
 
 void main()
