@@ -1,6 +1,1 @@
-Feature 1 new document
-
-feature 1 wasn't really ready - fixed in maintenance release
-
-Changed in 2nd edit
-Fixed in dev line
+feature 1 is entirely different in the new product
