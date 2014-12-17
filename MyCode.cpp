@@ -8,5 +8,7 @@ void main()
 {
 	// This is a.cpp file
 	DoSomethingReallyExiciting();
-	Maintenance1_3();
+	int ret = Maintenance1_3();
+	FunkyStuff( ret );
+	
 }
