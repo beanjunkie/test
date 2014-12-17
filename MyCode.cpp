@@ -7,6 +7,6 @@ void DoSomethingReallyExciting()
 void main()
 {
 	// This is a.cpp file
-	DoSomethingReallyExiciting();
+	NewProduct();
 	Maintenance1_3();
 }
