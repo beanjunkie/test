@@ -2,7 +2,7 @@
 void DoSomethingReallyExciting()
 {
 	BreakWind();
-	NewCode();
+	NewCode2();
 }
 
 void main()
@@ -11,9 +11,16 @@ void main()
 	DoSomethingReallyExciting();	// typo fixed
 	EekGonnaBlow();
 	Feature11PostMove();
+	AndysFix();
+	TimsFunction();
 }
 
 void TheWayToAmarillo()
 {
-	ShowMe();
+	if( ShowMe() )
+	{
+		GoThere();
+		GoHere();
+	}
+	Feature25();
 }
