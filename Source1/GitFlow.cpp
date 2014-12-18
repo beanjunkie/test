@@ -2,6 +2,7 @@
 void DoSomethingReallyExciting()
 {
 	FlowYourBoat();
+	BugFix2()
 }
 
 void main()
