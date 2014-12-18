@@ -19,6 +19,7 @@ void TheWayToAmarillo()
 	if( ShowMe() )
 	{
 		GoThere();
+		GoHere();
 	}
 	Feature25();
 }
