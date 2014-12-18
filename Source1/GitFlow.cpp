@@ -2,7 +2,6 @@
 void DoSomethingReallyExciting()
 {
 	FlowYourBoat();
-	BreakWind();
 }
 
 void main()
@@ -11,6 +10,5 @@ void main()
 	DoSomethingReallyExciting();	// typo fixed
 	ThisFunctionIsJumpedUp();
 	NewCode();
-	EekGonnaBlow();
 	Feature11PostMove();
 }
