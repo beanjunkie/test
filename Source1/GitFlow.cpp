@@ -12,3 +12,7 @@ void main()
 	NewCode();
 	Differentchanges();
 }
+
+void AddedInfeature3()
+{
+}
