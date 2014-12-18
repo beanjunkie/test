@@ -23,4 +23,5 @@ void TheWayToAmarillo()
 		GoHere();
 	}
 	Feature25();
+	BugFixForR1Beta();
 }
