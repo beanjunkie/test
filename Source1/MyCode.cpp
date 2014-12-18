@@ -12,6 +12,7 @@ void main()
 	EekGonnaBlow();
 	Feature11PostMove();
 	AndysFix();
+	AnotherFunction();
 }
 
 void TheWayToAmarillo()
