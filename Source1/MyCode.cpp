@@ -11,6 +11,7 @@ void main()
 	DoSomethingReallyExciting();	// typo fixed
 	EekGonnaBlow();
 	Feature11PostMove();
+	AndysFix();
 }
 
 void TheWayToAmarillo()
