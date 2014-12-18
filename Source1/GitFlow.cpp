@@ -7,7 +7,7 @@ void DoSomethingReallyExciting()
 void main()
 {
 	// This is a.cpp file
-	DoSomethingReallyExciting();	// typo fixed
+	DoSomethingReallyExciting();	// typo fixed - comment changed
 	ThisFunctionIsJumpedUp();
 	NewCode();
 	Differentchanges();
