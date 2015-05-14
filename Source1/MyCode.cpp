@@ -22,6 +22,7 @@ void TheWayToAmarillo()
 		GoThere();
 		GoHere();
 		DevelopmentContinues();
+		GoForkYourself();
 	}
 	Feature25();
 	BugFixForR1Beta();
