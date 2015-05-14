@@ -22,7 +22,9 @@ void TheWayToAmarillo()
 		GoThere();
 		GoHere();
 		GoForkYourself();
+		IrrelevantChange();
 	}
 	Feature25();
 	BugFixForR1Beta();
+	AnotherIrrelevantChange();
 }
