@@ -4,6 +4,7 @@ void DoSomethingReallyExciting()
 	FlowYourBoat();
 	BugFix2()
 	BugFix3();
+	Modified();
 }
 
 void main()
