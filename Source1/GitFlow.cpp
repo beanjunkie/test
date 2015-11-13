@@ -5,6 +5,7 @@ void DoSomethingReallyExciting()
 	BugFix2()
 	BugFix3();
 	Modified();
+	ApFeature45();
 }
 
 void main()
