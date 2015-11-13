@@ -4,6 +4,8 @@ void DoSomethingReallyExciting()
 	FlowYourBoat();
 	BugFix2()
 	BugFix3();
+	Modified();
+	ApFeature45();
 }
 
 void main()
@@ -18,11 +20,6 @@ void main()
 void AddedInfeature3()
 {
 }
-
 DevelopmentContinues()
-{
+IrrelevantChange()
 	
-}
-void Fork_testing()
-{
-}
