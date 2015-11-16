@@ -21,11 +21,6 @@ void TheWayToAmarillo()
 	{
 		GoThere();
 		GoHere();
-		DevelopmentContinues();
-		GoForkYourself();
-		IrrelevantChange();
 	}
 	Feature25();
-	BugFixForR1Beta();
-	AnotherIrrelevantChange();
 }
