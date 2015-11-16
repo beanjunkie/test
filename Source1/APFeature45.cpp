@@ -2,3 +2,9 @@
 DoSomethingDifferent()
 {
 }
+
+ThisIsALoveSong();
+
+Freeeeeeze()
+{
+}
