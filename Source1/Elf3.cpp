@@ -13,13 +13,13 @@ void main()
 	Feature11PostMove();
 	AndysFix();
 	TimsFunction();
+	SomeMoreChanges();
 }
 
 void TheWayToAmarillo()
 {
 	if( ShowMe() )
 	{
-		GoThere();
 		GoHere();
 	}
 	Feature25();
