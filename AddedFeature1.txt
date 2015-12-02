@@ -1,3 +1,4 @@
 Feature 1 new document
 Changed in 2nd edit
 Fixed in dev line
+Changed in the hub
