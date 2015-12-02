@@ -3,6 +3,7 @@ void DoSomethingReallyExciting()
 {
 	BreakWind();
 	NewCode2();
+	ArseBark();
 }
 
 void main()
@@ -10,22 +11,16 @@ void main()
 	// This is a.cpp file
 	DoSomethingReallyExciting();	// typo fixed
 	EekGonnaBlow();
-	Feature11PostMove();
 	AndysFix();
 	TimsFunction();
+	SomeMoreChanges();
 }
 
 void TheWayToAmarillo()
 {
 	if( ShowMe() )
 	{
-		GoThere();
 		GoHere();
-		DevelopmentContinues();
-		GoForkYourself();
-		IrrelevantChange();
 	}
 	Feature25();
-	BugFixForR1Beta();
-	AnotherIrrelevantChange();
 }
